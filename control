@@ -1,0 +1,8 @@
+Package: com.local.deskmic
+Name: DeskMic
+Version: 1.5.0
+Architecture: iphoneos-arm
+Description: iOS 9 microphone streaming app for jailbroken iPhone 4s
+Maintainer: Local
+Author: Local
+Section: Utilities

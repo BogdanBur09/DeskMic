@@ -1,0 +1,9 @@
+# Build and temporary files
+.theos/
+build/
+dist/
+__pycache__/
+*.spec
+*.o
+*.dSYM/
+packages/
